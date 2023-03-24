@@ -143,7 +143,7 @@ $sanitised_name = sanitise($name_from_db);
     <footer class="bg-dark py-3">
         <div class="container">
             <p class="text-center text-muted">
-                <a href="https://github.com/Thassanai546/Secure_App_Development_Project">GITHUB</a>
+                <a href="https://github.com/Thassanai546/SecureAppDev_Y4" target="_blank">GITHUB</a>
                 <a href="http://localhost/phpmyadmin/index.php?route=/database/structure&db=secure_app">PHPMYADMIN</a>
             </p>
         </div>

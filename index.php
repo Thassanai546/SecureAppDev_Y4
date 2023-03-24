@@ -31,7 +31,7 @@ include "connection.php";
         <footer style="position: absolute; bottom: 0; width: 100%; height: 60px; background-color: #212529;">
             <div class="container">
                 <p class="text-center text-muted">
-                    <a href="https://github.com/Thassanai546/Secure_App_Development_Project" target="_blank">GITHUB</a>
+                    <a href="https://github.com/Thassanai546/SecureAppDev_Y4" target="_blank">GITHUB</a>
                     <a href="http://localhost/phpmyadmin/index.php?route=/database/structure&db=secure_app" target="_blank">PHPMYADMIN</a>
                 </p>
             </div>
